@@ -1,5 +1,5 @@
 # lockUser.py
-# Gets the current user and locks the computer.
+# Gets the current logged in user and locks their computer.
 # Sam Eakin
 import getpass
 import ctypes

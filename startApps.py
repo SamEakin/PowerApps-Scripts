@@ -1,6 +1,6 @@
-#  startApps.py
-# Get List of open windows applications.
-# https://pywinauto.readthedocs.io/en/latest/getting_started.html
+# startApps.py
+# Get a list of running applications on a user system. User can choose to stop an application.
+# Sam Eakin
 import os
 import getpass
 import platform

@@ -1,6 +1,6 @@
-#  getWindows.py
-# Get List of open windows applications.
-# https://pywinauto.readthedocs.io/en/latest/getting_started.html
+# stopApps.py
+# Start Applications on a user system. Currently the application options are hard-coded.
+# Sam Eakin
 import os
 import getpass
 import platform
